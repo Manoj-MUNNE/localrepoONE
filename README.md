@@ -1,6 +1,1 @@
-#inclue<stdio.h>
-int main()
-{
-    printf("HELLOW");
-    return 0;
-}
+# This is starting of my journey
